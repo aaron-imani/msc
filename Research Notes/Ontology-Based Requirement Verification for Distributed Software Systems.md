@@ -42,8 +42,8 @@ contributions of this methodology include *Consistency and increased level of au
 
 ## Findings
 
-- Definition of *indeterminism* in behavior of distributed systems
-- Detection of failures and removal of faults during field use of distributed systems
+- Removing the need of domain experts to find semantic causalities
+- Reducing user input to automate the requirement verification process
 - Partially Automating the specification and design review of the distributed system and detect a subset of unwanted run time behaviors, including implied behaviors.
 
 ## Suggested Future Work
