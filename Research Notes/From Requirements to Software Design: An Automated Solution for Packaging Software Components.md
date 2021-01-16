@@ -1,4 +1,4 @@
-# From Requirements to Software Design: An Automated Solution for Packaging Software Components
+# From Requirements to Software Design - An Automated Solution for Packaging Software Components
 
 ## Paper Link
 
