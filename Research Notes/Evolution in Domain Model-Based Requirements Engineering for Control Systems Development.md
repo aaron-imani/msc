@@ -30,7 +30,7 @@ As a result of modifications to control systems, some problems would be arised i
 
 Imagine that an element in a former control system project already contained a specific *element* *i*. But at that time it has not been part of the domain model. We then face the problem that model comparison will not match the *element i* of the modified domain model with the conceptually same element of the old requirements model. The old requirements model will get a lower ranking than it should get.
 
-### Classication of Modications
+### Classification of Modifications
 
 To support the continuous evolution of the domain model we systematically analyse the different types of modifications. The proposed investigation reveals quite clearly the problems caused by a modification: the comparison queries need to be updated manually in some cases, even with updated queries the ranking is not always accurate, and the existing requirements models can not be updated automatically in all cases.
 
