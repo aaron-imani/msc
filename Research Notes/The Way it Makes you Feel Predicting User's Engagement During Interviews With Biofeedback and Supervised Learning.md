@@ -8,7 +8,7 @@ https://ieeexplore.ieee.org/document/9218155
 - What range of engagement do users report during an interview?
 - To what extent can we predict users’ engagement using biofeedback measurements and supervised classifiers?
 
-## Brief Summar
+## Brief Summary
 
 The paper aims to extend the body of knowledge in affective RE by studying users’ emotions during interviews. It has been focused on *engagement*—i.e., **the degree of positive or negative interest on a certain product-related aspect discussed in the interview**. They have performed a study with 31 participants taking part in a simulated interview during which they have captured participants’ biofeedback using an Empatica E4 wristband, and collect their self-assessed engagement. They compared different machine learning algorithms to predict users’ engagement based exclusively on features extracted from biofeedback signals.
 

@@ -8,7 +8,7 @@ https://ieeexplore-ieee-org.ezproxy.lib.ucalgary.ca/document/8317243
 - What are the principles of control software design?
 - What are the principles of SCADA-system development?
 
-## Brief Summar
+## Brief Summary
 
 The paper aims at the principles of control software design. According to the introduction, SCADA systems emerged to answer the need for operator controlling production since robotic devices can’t be self-sustained entirely. Such systems usually are implemented with the devices below:
 - Operator panels
