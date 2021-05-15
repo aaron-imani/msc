@@ -5,7 +5,7 @@ https://ieeexplore.ieee.org/document/8973241
 
 ## Research Questions
 
-How to calculation of reliability indicators in an analytical and experimental way
+How to calculate reliability indicators in an analytical and experimental way
 
 ## Brief Summary
 
