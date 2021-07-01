@@ -35,7 +35,7 @@ The best ways to measure maintainability
 
 ## Suggested Future Work
 
-- Include larger number of OSS projects as well as closedsource projects such as UCC Code Count and extensive data from USC-neighborhood software applications developed in their MS-level team project course, other complexity metrics such as Chidamber-Kemerer, code smells and readability such as specific language coding styles and developers’ experience
+- Include a larger number of OSS projects, as well as closed source projects such as UCC Code Count and extensive data from USC-neighborhood software applications developed in their MS-level team project course, other complexity metrics such as Chidamber-Kemerer, code, smells, and readability such as specific language coding styles and developers’ experience
 and expertise. 
 - Increasing the number of experimental maintainers
 - Recruiting maintainer subjects with different skills and experience levels. 
