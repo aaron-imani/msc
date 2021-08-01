@@ -1,0 +1,16 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/Research Notes/TOWARDS IMPROVED ACCESSIBILITY OF THE TANGO CONTROLS.md"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "british",
+                "domain": "technical",
+                "emotions": [],
+                "goals": []
+            }
+        }
+    ]
+}
