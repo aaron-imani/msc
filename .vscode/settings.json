@@ -11,6 +11,21 @@
                 "emotions": [],
                 "goals": []
             }
+        },
+        {
+            "files": [
+                "**/Research Notes/Evidence in software architecture, a systematic literature review.md"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "canadian",
+                "domain": "academic",
+                "emotions": [],
+                "goals": [
+                    "inform",
+                    "describe"
+                ]
+            }
         }
     ]
 }
